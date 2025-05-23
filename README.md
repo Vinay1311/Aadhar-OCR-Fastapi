@@ -14,7 +14,7 @@ aadhaar_ocr_fastapi/
 │   └── services/            # Business logic services
 │       └── ocr_service.py  # OCR processing service
 ├── requirements.txt         # Project dependencies
-└── README.md               # Project documentation
+README.md               # Project documentation
 ```
 
 ## Quick Start
